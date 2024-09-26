@@ -7,7 +7,7 @@
   <li><strong>CSS:</strong> Estilização e layout.</li>
 </ul>  
 
-<h2> 💡 Conceitos praticados:</h2>
+<h2> 📝 Conceitos praticados:</h2>
 <ul>
   <li>Fontes</li>
   <li>Imagens</li>
